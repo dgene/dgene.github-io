@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Huddle</title>
 
-You can use the [editor on GitHub](https://github.com/dgene/dgene.github-io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	<!--link rel is for the website icon-->
+		<link rel="icon.png" href="images/logo.svg">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<link rel="shortcut icon" href="images/logo.svg">
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+		<link rel="apple-touch-icon-precomposed" sizes="144X144" href="images/logo.svg">
 
-```markdown
-Syntax highlighted code block
+		<link rel="apple-touch-icon-precomposed" sizes="114X114" href="images/logo.svg">
 
-# Header 1
-## Header 2
-### Header 3
+		<link rel="apple-touch-icon-precomposed" sizes="72X72" href="images/logo.svg">
 
-- Bulleted
-- List
+		<link rel="apple-touch-icon-precomposed" href="images/logo.svg">
+</head>
 
-1. Numbered
-2. List
+<body style= "background-image: url(images/bg-desktop.svg); background-color: hsl(257, 40%, 49%)">
+	<div class="card-header">
+		<img src="images/logo.svg">
+	</div>
 
-**Bold** and _Italic_ and `Code` text
+	<div class="container-fluid">
+		<div class="row" style="margin-top: 3%;">
+			<div class="col-md-7"><img src="images/illustration-mockups.svg"></div>
+			
+			<div class="col-md-5" style="margin-top: 2%;"><h2 style="color:white;">Build The Community Your Fans Love</h2>
+				<p style="color:white;"> Huddle Re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.</p>
+<button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#bd-example-modal" style="background-color: hsl(300, 69%, 71%); border-radius: 50px;">Register</button>
+			</div>
+		 </div>
+		
+		
+		
+	</div>
+	
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dgene/dgene.github-io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+<script type='text/javascript' src='js/bootstrap.min.js'></script>
+<script type='text/javascript' src='js/fontawesome.min.js'></script>
+<link rel='stylesheet' href='css/bootstrap.min.css'/>
+<link rel='stylesheet' href='css/font-awesome.min.css'/>
+<link rel='stylesheet' href='css/font-awesome.css'/>
+</html>
